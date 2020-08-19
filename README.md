@@ -1,2 +1,2 @@
 # MathGame
-Console Math Game On Python
+Console Math Game on Python
